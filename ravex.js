@@ -1,6 +1,6 @@
 const pipicaneferz = "Botları kullanabilirsiniz ama kullanmanızı tavsiye etmem",
 
-const glitch = "https://glitch.com/@Eferz"
+const glitch = "https://glitch.com/@Eferz",
 
 const guardlar = "https://glitch.com/~spangle-joyous-buttercup"
 
